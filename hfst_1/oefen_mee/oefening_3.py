@@ -8,15 +8,18 @@ print( fruitmand.items() )
 
 """
 Wat zijn de gelijkenissen van deze waarden met lijsten? Wat zijn de verschillen?
+beide vierkante haakjes.
 
 """
 
 """
 Zijn deze waarden effectief lijsten? Hoe kan je dit testen?
+nee, hebben geen methodes dei lijsten hebben.
 
 """
 
 """
 Indien nee, is het mogelijk om deze waarden naar lijsten om te vormen?
+je dat kan via de typecasting functie list()
 
 """

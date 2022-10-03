@@ -9,3 +9,8 @@ scores = [
     [ 7, 6, 5 ], # Life
     [ 6, 5, 6, 6 ] # Different
 ] 
+
+dict = {}
+for i in scores:
+    dict[films[scores.index(i)]] = i
+print(dict)

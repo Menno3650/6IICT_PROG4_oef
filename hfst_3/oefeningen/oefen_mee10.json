@@ -1,0 +1,27 @@
+{
+    "pionnen": {
+        "aantal": 8,
+        "beweging": "vooruit",
+        "engelse_naam": "pawn"
+    },
+    "paard": {
+        "aantal": 2,
+        "beweging": "L-vorm",
+        "engelse_naam": "knight"
+    },
+    "loper": {
+        "aantal": "/",
+        "beweging": "diagonaal",
+        "engelse_naam": "bishop"
+    },
+    "toren": {
+        "aantal": 2,
+        "beweging": "orthagonaal",
+        "engelse_naam": "rook"
+    },
+    "koning": {
+        "aantal": 1,
+        "beweging": "een vak",
+        "engelse_naam": "king"
+    }
+}

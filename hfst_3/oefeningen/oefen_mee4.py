@@ -7,8 +7,7 @@ try:
 except NameError:
     # Je mag de code enkel hier aanpassen. 
     # Los het probleem van de exception op.
-    pass
-
+    klein_woord = False
 if klein_woord:
     print(f"{woord} is een klein woord")
 else:

@@ -1,0 +1,8 @@
+{
+    "toren": {
+        "aantal": 2,
+        "beweging": ["links", "rechts", "boven", "onder"],
+        "engelse_naam": "rook",
+        "waarde_pionnen": 5
+    }
+}

@@ -23,5 +23,11 @@
         "aantal": 1,
         "beweging": "een vak",
         "engelse_naam": "king"
+    },
+    "koningin": {
+        "aantal": 1,
+        "beweging": "alles",
+        "engelse_naam": "queen"
     }
+    
 }

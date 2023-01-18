@@ -4,8 +4,8 @@ venster = tk.Tk()
 
 # Functie maakt een label aan wanneer opgeroepen.
 def knop_klik():
-    label = tk.Label(master=venster, text="Goed gedaan!")
-    label.pack()
+    new_knop = tk.Button(master=venster, text="Klik ook op mij!", command=knop_klik)
+    new_knop.pack()
 
 # Knop aanmaken.
     # master: geef aan tot welke GUI de knop behoort.

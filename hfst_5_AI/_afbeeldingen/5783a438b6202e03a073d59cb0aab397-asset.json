@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "5783a438b6202e03a073d59cb0aab397",
+        "name": "beeldcomputer.jpg",
+        "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/_afbeeldingen/beeldcomputer.jpg",
+        "size": {
+            "width": 733,
+            "height": 510
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "RTfNpwNlX",
+            "type": "RECTANGLE",
+            "tags": [
+                "kat"
+            ],
+            "boundingBox": {
+                "height": 430.4255319148936,
+                "width": 245.23719255139298,
+                "left": 60.38663686806412,
+                "top": 37.97872340425532
+            },
+            "points": [
+                {
+                    "x": 60.38663686806412,
+                    "y": 37.97872340425532
+                },
+                {
+                    "x": 305.6238294194571,
+                    "y": 37.97872340425532
+                },
+                {
+                    "x": 305.6238294194571,
+                    "y": 468.40425531914894
+                },
+                {
+                    "x": 60.38663686806412,
+                    "y": 468.40425531914894
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

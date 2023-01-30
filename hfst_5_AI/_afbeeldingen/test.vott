@@ -1,0 +1,81 @@
+{
+    "name": "test",
+    "securityToken": "test Token",
+    "sourceConnection": {
+        "name": "test",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiOWNjMWQ3MWI5NzFkODlkYjcyNzJjODQ3NzI5NDY2ZTI0YmYyMmY0NDQ0MzJmZWZjNzNhZGQ5YmNjZDhhMGQ0Y2Y0N2ZlZGNiNTdjMzcwMzgyZTE2MTk2YTllYzEzNzVlZWZmNmZjMDdkY2E5ZTIxOWY3ZjZmOTUxMzhjN2UzZjdkZjg0MmU2ZTVjYjM0M2EyZmVjZDVhMWFiMTFlMzIwZDRlZDBkZjQ3NmE4ZTQ5MWY2YTg4ZTlkNTc3ZTFiMjBiNjAwZjEyZTIwOGIzZDk2Y2Y2NmE1MTk2MmFmZDdkNTRhNmM4NDcxMDZhMjMwNDYwMzM3M2FhNWQwNDlmOWZhNzYzMzE2MjQ5MjE1OTY1YWQzNDNhZjc4NWVlZWEzZTdiIiwiaXYiOiJjMjMwNTA4N2E2NDE1ODkyYTNkZWJmMTg5YjJiYTVmMzUwNTk0MWYwNGNkOTg1NjAifQ=="
+        },
+        "id": "Uov70dB9Q"
+    },
+    "targetConnection": {
+        "name": "test",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiOTBiMzAxODY5MDVhNzAyNDQyMDUxMDQ0NTE0ZGE5ZWQ3OTU5ZTQwMGU0NmEwYTkwOGQ0ZDcxOWYwMzBkYjk1Zjg1MzEwZDhmYWFiZDBhZDYyNGMxNzYzMDg5ZjY3YjIyNjE4NDU4ZjdlOTQwZmRmZmE0M2ZkMDk5ZjAyYzk3MzdkZDI5NmMyNWQ2MmJkNGMwNzM1M2NmNjU5YjE1NWQ2ZWU5ZWVlMzUyNjc5YzdjZWFiY2JiY2UzZWQzZTE1NmJkZmIxNTk4MzkwYmViOWYyZTc4NThjZDQ2NzZjZjQ1MDc4NWFlNzdkZmY1ZTQyY2Y3ZGRiYjMzYmUyMmZhMmY2MDAxNmNjOTM3YTNkNmVjZGFmOTVmYjE1MjZkY2YyYTZhIiwiaXYiOiJhMWY2NjNlMjM2NjI3ZDQ3NDM1Y2EzNTZhZGExOWM4OTM5MmE5YjMwYTRjNDYyMWMifQ=="
+        },
+        "id": "Uov70dB9Q"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "kat",
+            "color": "#800080"
+        }
+    ],
+    "id": "vYIWiF1hk",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "csv",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZjc4M2Q4ZDFkYmVlMTg5YTE3YTk5YzhiNGEyZGUxZThhY2U0NDNhOWYxNGNhZjIyOGE3ODY2ZDkzODI1NGFhOGU5MGM2YmM4ODgzODJkMzA5ODExYmVmN2Y5MGNlNmUxIiwiaXYiOiI2MGYyMDRlZDQ1NjFkZDRmNGRmMDdkYmEzMDhkMThiNjk4YmMwNjY1MmUyMjQwMzcifQ=="
+        }
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "3a32495be91c03024a5e990c1767e96f",
+    "assets": {
+        "847e4b0b586c1e921733920597bdd25c": {
+            "format": "png",
+            "id": "847e4b0b586c1e921733920597bdd25c",
+            "name": "AI_sentiment.png",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/_afbeeldingen/AI_sentiment.png",
+            "size": {
+                "width": 4549,
+                "height": 900
+            },
+            "state": 1,
+            "type": 1
+        },
+        "5783a438b6202e03a073d59cb0aab397": {
+            "format": "jpg",
+            "id": "5783a438b6202e03a073d59cb0aab397",
+            "name": "beeldcomputer.jpg",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/_afbeeldingen/beeldcomputer.jpg",
+            "size": {
+                "width": 733,
+                "height": 510
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3a32495be91c03024a5e990c1767e96f": {
+            "format": "png",
+            "id": "3a32495be91c03024a5e990c1767e96f",
+            "name": "hondkat.png",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/_afbeeldingen/hondkat.png",
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "state": 2,
+            "type": 1
+        }
+    }
+}

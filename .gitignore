@@ -173,3 +173,7 @@ cython_debug/
 
 # Add own ignores here
 !/README.md/
+
+yolov3.weights
+yolov3_tiny.weights
+yolov3-tiny-custom.weights

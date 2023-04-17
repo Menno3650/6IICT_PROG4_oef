@@ -1,0 +1,12 @@
+Uitbreidingen:
+    1. Maak snelheid van particles onafhankelijk van de fps.
+    2. Geef alle particles een willekeurige kleur, na het resetten moet de kleur ook veranderen.
+       Geef alle particles een willekeurige grootte, na het resetten moet de kleur ook veranderen.
+    3. Maak een nieuwe klasse BouncingParticle. objecten van deze klasse lijken veel op die van BoringParticle.
+       Er is echter een belangrijk verschil. Wanneer deze een rand raakt, kaatst het erop af.
+       Je zal dus de variabele richting moeten veranderen IPV de particle te resetten.
+       Deze particle verandert van kleur/grootte na een botsing met de rand.
+    4. Maak een nieuwe klasse SpinningParticle. Objecten van deze klasse lijken veel op die van BoringParticle.
+       Er is echter een belangrijk verschil. Deze particles gaan niet in een rechte lijn naar de rand.
+       In plaats hiervan zullen ze kloksgewijs draaien terwijl ze vooruit bewegen.
+       Je zult hiervoor iedere beweging, de richting van de particle lichtje moeten wijzigen.

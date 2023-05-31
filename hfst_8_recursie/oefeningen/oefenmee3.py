@@ -1,0 +1,1 @@
+""" Bepaal de faculteit van een getal met behulp van een while-loop. """

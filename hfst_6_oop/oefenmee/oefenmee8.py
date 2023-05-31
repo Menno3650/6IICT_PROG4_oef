@@ -6,6 +6,7 @@ class Led:
     def __init__(self,pin):
         self.pin_nummer = pin
         GPIO.setup(pin, GPIO.OUT)
+        
     def aan(self):
         GPIO.setup(self.pin_nummer, GPIO.HIGH)
     def uit(self):

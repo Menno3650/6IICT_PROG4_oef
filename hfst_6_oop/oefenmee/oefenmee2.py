@@ -6,4 +6,5 @@ class Hond:
     def weegschaal(self):
         print(f"{self.name} weegt {self.mass}")
 
-hond = Hond.weegschaal()
+hond = Hond()
+hond.weegschaal()

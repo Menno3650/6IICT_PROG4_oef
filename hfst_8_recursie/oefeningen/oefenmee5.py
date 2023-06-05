@@ -1,8 +1,8 @@
-""" Niveau 1: los sommatie recursief op """
+""" Niveau 1: los omdraaien van woord recursief op """
 
 print( draaiom("Hallo") )       # ollaH
 print( draaiom("Dag") )         # gaD
 print( draaiom("f"))            # f
 print( draaiom("Iedereen") )    # neeredeI
 
-""" Niveau 2: los sommatie met while-loops op """
+""" Niveau 2: los omdraaien van woord met while-loops op """

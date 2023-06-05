@@ -9,10 +9,10 @@ WIT = (255, 255, 255)
     teken_h(x, y, breedte, hoogte, scherm)
  """
 def recursieve_fractaal(x, y, breedte, hoogte, diepte, scherm):
-    # TODO: maak deze functie recursief.
     teken_h(x, y, breedte, hoogte, scherm) # Teken een H volgens de meegegeven dimensies.
 
- 
+    # TODO: roep recursief de kleinere H's op linksboven, rechtsboven, linksonder & rechtsonder
+    #       de huidige H.
 
  
 """ Teken een H op een bepaalde positie (x,y) & een bepaalde grootte (breedte,hoogte). """

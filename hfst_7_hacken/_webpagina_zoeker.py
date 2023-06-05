@@ -1,7 +1,7 @@
 import requests
 
 # Welke webpagina doorzoeken?
-URL = "VUL AAN" 
+URL = "http://172.16.1.37:8888/" 
 # Wat moet een HTML regel bevatten om een hit te zijn?
 # Er is in dit geval gezocht naar links & andere webpagina's.
 hits = ["<a", ".php", ".html", "href"]
